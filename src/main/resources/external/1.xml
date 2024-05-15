@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employee isInternal="false" personId="1">
+    <firstName>sd</firstName>
+    <lastName>cccc</lastName>
+    <mobile>555555555</mobile>
+    <email>test@test.pl</email>
+    <pesel>123456789</pesel>
+</employee>
